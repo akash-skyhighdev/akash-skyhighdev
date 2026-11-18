@@ -2,12 +2,11 @@
 
 # 👋 Hi, I'm Akash Mathur
 
-**Full-stack developer · Cloud & AWS builder**
+**Cloud Support Engineer / Associate (AWS)**
 
-Serverless apps · GenAI / RAG · Clean, scalable code
+"*AWS Cloud & AI Solutions · Linux Systems · Network Architecture*"
 
 [![Followers](https://img.shields.io/github/followers/akash-skyhighdev?label=Followers&style=flat-square&logo=github&color=0e75b6)](https://github.com/akash-skyhighdev?tab=followers)
-[![Profile views](https://komarev.com/ghpvc/?username=akash-skyhighdev&label=Profile%20views&color=0e75b6&style=flat-square)](https://github.com/akash-skyhighdev)
 
 </div>
 
@@ -17,10 +16,11 @@ Serverless apps · GenAI / RAG · Clean, scalable code
 
 ```python
 class Akash:
-    role      = "Full-stack developer & cloud builder"
-    focus     = ["AWS serverless", "GenAI / RAG", "Web apps"]
+    role      = "Cloud Support Engineer / Associate (AWS)"
+    focus     = ["AWS Cloud Infrastructure", "Linux Administration", "VPC Networking"]
     building  = "Document Q&A chatbot on Amazon Bedrock"
-    learning  = "Advanced AWS architecture"
+    learning  = "Advanced AWS architecture & networking"
+    open_to   = ["full time roles", "Freelance projects", "Collaboration"]
 
     def say_hi(self):
         return "Let's build something useful together 🚀"
@@ -28,44 +28,182 @@ class Akash:
 
 ---
 
-## 🧰 Tech stack
+## 🔭 Currently
 
-<p align="center">
+- 🏗️ Building a **document Q&A chatbot** with Amazon Bedrock, Knowledge Bases, and RAG
+- ☁️ Designing a **VPC architecture** with private subnets, VPC endpoints, and an Application Load Balancer
+- 📚 Continuously exploring **AWS Core Services**, Linux systems, and cloud architecture best practices.
+
+---
+
+**☁️ Cloud & AWS**
+
+<p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" />
+  <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" />
   <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />
+  <img src="https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white" />
+  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" />
+  <img src="https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cognito-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/MFA-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Secrets_Manager-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Security_Groups-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/VPC-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Auto_Scaling-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Route_53-8C4FFF?style=for-the-badge&logo=amazonroute53&logoColor=white" />
+  <img src="https://img.shields.io/badge/CloudFront-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/CloudFormation-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white" />
   <img src="https://img.shields.io/badge/Bedrock-7B42BC?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Polly-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</p>
+
+**🧠 AI & RAG**
+
+<p>
+  <img src="https://img.shields.io/badge/Bedrock-7B42BC?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-0E75B6?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Knowledge_Bases-7B42BC?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</p>
+
+**💻 Languages & frameworks**
+
+<p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/django-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
+
+**🗄️ Databases & tools**
+
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
 ---
 
-## 📊 GitHub at a glance
+## 📊 GitHub stats
 
-| Metric | Value |
-|---|---|
-| Public repositories | 00 |
-| Stars earned | 00 |
-| Commits (last year) | 000 |
-| Pull requests | 00 |
-| Current streak | 00 days |
-| Longest streak | 00 days |
+<div align="center">
 
-<p align="center"><sub>Update these numbers from your GitHub profile when you want them refreshed.</sub></p>
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h1>4</h1>
+      <b>Total contributions</b><br/>
+      <sub>Nov 18 – Present</sub>
+    </td>
+    <td align="center" width="34%">
+      <h1>🔥 1</h1>
+      <b>Current streak</b><br/>
+      <sub>Nov 18</sub>
+    </td>
+    <td align="center" width="33%">
+      <h1>1</h1>
+      <b>Longest streak</b><br/>
+      <sub>Nov 18</sub>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <sub>Your contribution graph is shown at the top of your GitHub profile page, and your streak and totals are on the Overview tab.</sub>
-</p>
+<br/>
+
+<table>
+  <tr>
+    <td>
+
+## 📊 GitHub stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akash-skyhighdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash-skyhighdev&layout=compact&langs_count=8&theme=tokyonight" />
+  <br /><br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akash-skyhighdev&theme=tokyonight" />
+</div>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<sub>Numbers are a snapshot. Update them from your profile's Overview tab when you want them refreshed.</sub>
+
+---
+
+## 📈 Commit graph (last 6 months)
+
+```mermaid
+xychart-beta
+    title "Commits per month"
+    x-axis [Jun, Jul, Aug, Sep, Oct, Nov]
+    y-axis "Commits" 0 --> 50
+    bar [0, 0, 0, 0, 0, 2]
+    line [0, 0, 0, 0, 0, 2]
+```
+
+<sub>Edit the bar and line values with your monthly commit counts.</sub>
+
+---
+
+## 💻 Top languages
+
+```mermaid
+pie showData
+    title "Languages by share"
+    "Python" : 40
+    "JavaScript" : 25
+    "HTML" : 20
+    "CSS" : 15
+```
+
+<sub>Edit the numbers so they add up to your language shares.</sub>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=akash-skyhighdev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash-skyhighdev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=akash-skyhighdev&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="50%" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=akash-skyhighdev&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="70%" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=akash-skyhighdev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Trophies" width="70%" />
+
+</div>
 
 ---
 
@@ -73,19 +211,27 @@ class Akash:
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**Serverless customer form**](https://github.com/akash-skyhighdev/repo-1) | Lambda + S3 app that saves customer records as JSON, with a live list view. | AWS Lambda, S3, JavaScript |
-| [**Bedrock document Q&A**](https://github.com/akash-skyhighdev/repo-2) | RAG chatbot on Amazon Bedrock with per-user document isolation. | Flask, Bedrock, S3 |
-| [**Project three**](https://github.com/akash-skyhighdev/repo-3) | Replace with a one-line description of what it does. | Node.js, MongoDB |
-| [**Project four**](https://github.com/akash-skyhighdev/repo-4) | Replace with a one-line description of what it does. | HTML, CSS, JavaScript |
+| [**Serverless customer form**](https://github.com/akash-skyhighdev/repo-1) | Lambda and S3 app that saves customer records as JSON, with a live list view. | AWS Lambda, S3, JavaScript |
+| [**Bedrock document Q&A**](https://github.com/akash-skyhighdev/repo-2) | RAG chatbot on Amazon Bedrock with per-user document isolation. | Flask, Bedrock, S3, Cognito |
+| [**Project three**](https://github.com/akash-skyhighdev/repo-3) | Replace with a one-line description. | Node.js, MongoDB |
+| [**Project four**](https://github.com/akash-skyhighdev/repo-4) | Replace with a one-line description. | HTML, CSS, JavaScript |
+
+---
+
+## 🎓 Learning
+
+- ✅ AWS Cloud Practitioner *(replace with your status)*
+- 🔄 AWS Solutions Architect Associate *(in progress)*
+- 📘 Generative AI with Amazon Bedrock *(in progress)*
 
 ---
 
 ## 📫 Let's connect
 
-<p align="center">
+<p>
   <a href="https://linkedin.com/in/your-id"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-0E75B6?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 </p>
 
-<p align="center"><sub>⭐ Thanks for visiting. Star a repo if it helped you.</sub></p>
+<p align="center"><sub>⭐ Thanks for visiting. If a project helped you, a star means a lot.</sub></p>
