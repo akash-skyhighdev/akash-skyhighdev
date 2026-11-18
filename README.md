@@ -126,8 +126,8 @@ class Akash:
 ## 📊 GitHub stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akash-skyhighdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash-skyhighdev&layout=compact&langs_count=8&theme=tokyonight" />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=akash-skyhighdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="80em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash-skyhighdev&layout=compact&langs_count=8&theme=tokyonight" />
   <br /><br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=akash-skyhighdev&theme=tokyonight" />
 </div>
