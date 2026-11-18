@@ -1,17 +1,93 @@
-<h1 align="center">Hi 👋, I'm akash mathur</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-skyhighdev&label=Profile%20views&color=0e75b6&style=flat" alt="akash-skyhighdev" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akash-skyhighdev" alt="akash-skyhighdev" /></a> </p>
+# Hi there 👋, I'm Akash Mathur
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+### Full-stack developer · Cloud & AWS enthusiast
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+[![Profile Views](https://komarev.com/ghpvc/?username=akash-skyhighdev&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/akash-skyhighdev)
+[![GitHub followers](https://img.shields.io/github/followers/akash-skyhighdev?label=Followers&style=flat&logo=github)](https://github.com/akash-skyhighdev?tab=followers)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akash-skyhighdev&show_icons=true&locale=en&layout=compact" alt="akash-skyhighdev" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akash-skyhighdev&show_icons=true&locale=en" alt="akash-skyhighdev" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akash-skyhighdev&" alt="akash-skyhighdev" /></p>
+## 🛠️ Tech stack
+
+<div align="center">
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+## 📊 GitHub analytics
+
+<div align="center">
+
+<img height="180" alt="Akash's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=akash-skyhighdev&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" />
+<img height="180" alt="Akash's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash-skyhighdev&layout=compact&hide_border=true&theme=tokyonight" />
+
+</div>
+
+<div align="center">
+
+<img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=akash-skyhighdev&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 📈 Contribution activity
+
+<div align="center">
+
+<img alt="Contribution graph" src="https://ghchart.rshah.org/0e75b6/akash-skyhighdev" />
+
+</div>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+
+<img alt="GitHub trophies" src="https://github-profile-trophy.vercel.app/?username=akash-skyhighdev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
+
+</div>
+
+---
+
+## 🚀 Featured projects
+
+| Project | Description | Tech |
+|---|---|---|
+| [**Project name 1**](https://github.com/akash-skyhighdev/repo-1) | Short one-line description of what it does and why it matters. | AWS Lambda, S3 |
+| [**Project name 2**](https://github.com/akash-skyhighdev/repo-2) | Short one-line description of what it does and why it matters. | Flask, Bedrock |
+| [**Project name 3**](https://github.com/akash-skyhighdev/repo-3) | Short one-line description of what it does and why it matters. | Node.js, MongoDB |
+
+---
+
+## 📫 Connect with me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-id)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://your-portfolio.com)
+
+<sub>Thanks for visiting! ⭐ Star a repo if you find it useful.</sub>
+
+</div>
