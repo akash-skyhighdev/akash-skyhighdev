@@ -1,69 +1,133 @@
-<h1 align="center">Hi 👋, I'm Akash Mathur</h1>
-<h3 align="center">A passionate full-stack developer from India 🚀</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=akash-skyhighdev&label=Profile%20views&color=0e75b6&style=flat" alt="akash-skyhighdev profile views" />
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=akash-skyhighdev&theme=radical&no-frame=true" alt="github trophies" />
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:0A0F1F&height=220&section=header&text=Akash%20Mathur&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-stack%20developer%20%E2%80%A2%20Cloud%20%26%20AWS&descAlignY=60&descSize=20" width="100%" alt="Header banner" />
 
----
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&multiline=true&width=640&height=90&lines=Building+serverless+apps+on+AWS+%E2%98%81%EF%B8%8F;Flask+%2B+Bedrock+RAG+chatbots+%F0%9F%A4%96;Shipping+clean%2C+scalable+code+%F0%9F%9A%80" alt="Typing animation" />
+</a>
 
-### 🛠️ Languages and Tools:
+<br/>
 
-<p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/></a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></a>
-</p>
+[![Profile Views](https://komarev.com/ghpvc/?username=akash-skyhighdev&label=Profile%20views&color=0e75b6&style=flat-square)](https://github.com/akash-skyhighdev)
+[![Followers](https://img.shields.io/github/followers/akash-skyhighdev?label=Followers&style=flat-square&logo=github&color=0e75b6)](https://github.com/akash-skyhighdev?tab=followers)
+[![Stars](https://img.shields.io/github/stars/akash-skyhighdev?label=Stars&style=flat-square&logo=github&color=0e75b6)](https://github.com/akash-skyhighdev?tab=repositories)
+
+</div>
 
 ---
 
-### 🌟 Featured Projects:
+<div align="center">
 
-| Project Name | Description | Tech Stack | Link |
-| :--- | :--- | :--- | :--- |
-| **Project One** | Brief summary of your stellar web/mobile app | React, Node.js, MongoDB | [View Repo](https://github.com/akash-skyhighdev) |
-| **Project Two** | Brief summary of another cool backend or CLI project | Python, Django, AWS | [View Repo](https://github.com/akash-skyhighdev) |
+### 👨‍💻 About me
 
----
+</div>
 
-### 📈 GitHub Analytics & Stats:
+```python
+class Akash:
+    role       = "Full-stack developer & cloud builder"
+    focus      = ["AWS serverless", "GenAI / RAG", "Web apps"]
+    currently  = "Building document Q&A with Amazon Bedrock"
+    learning   = "Advanced AWS architecture"
+    fun_fact   = "Debugs with print() until it doesn't work"
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akash-skyhighdev&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true" alt="akash-skyhighdev github stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akash-skyhighdev&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akash-skyhighdev&theme=tokyonight&hide_border=true" alt="github streak stats" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akash-skyhighdev&theme=react-dark&hide_border=true&display_fmt=weekly" alt="contribution activity graph" width="100%" />
-</p>
+    def hire_me(self):
+        return "Let's build something great together 🚀"
+```
 
 ---
 
-### 🤝 Connect with Me:
+<div align="center">
 
-<p align="left">
-  <a href="https://linkedin.com/in/your-linkedin-username" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-  </a>
-  <a href="mailto:your-email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
-  </a>
-</p>
+### 🧰 Tech stack
+
+<img src="https://skillicons.dev/icons?i=aws,python,flask,js,nodejs,express,react,vue,mongodb,mysql,html,css,bootstrap,linux,git,github,vscode&perline=9&theme=dark" alt="Tech stack icons" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 📊 GitHub analytics
+
+<img height="190" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=akash-skyhighdev&show_icons=true&hide_border=true&theme=radical&include_all_commits=true&count_private=true" />
+<img height="190" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash-skyhighdev&layout=compact&hide_border=true&theme=radical&langs_count=8" />
+
+<br/><br/>
+
+<img alt="Streak stats" src="https://streak-stats.demolab.com/?user=akash-skyhighdev&theme=radical&hide_border=true&background=0D1117&ring=0E75B6&fire=0E75B6&currStreakLabel=0E75B6" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🟩 Contribution activity
+
+<img alt="Contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=akash-skyhighdev&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=0E75B6&line=0E75B6&point=ffffff" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🏆 Trophies
+
+<img alt="GitHub trophies" src="https://github-profile-trophy.vercel.app/?username=akash-skyhighdev&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Featured projects
+
+</div>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>☁️ Serverless customer form</h4>
+      Lambda + S3 app that saves customer records as JSON, with a live list view.<br/><br/>
+      <img src="https://skillicons.dev/icons?i=aws,python,js&perline=3&theme=dark" height="36" /><br/><br/>
+      <a href="https://github.com/akash-skyhighdev/repo-1"><img src="https://img.shields.io/badge/View%20repo-0E75B6?style=for-the-badge&logo=github&logoColor=white" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🤖 Bedrock document Q&A</h4>
+      RAG chatbot on Amazon Bedrock. Per-user document isolation and source-grounded answers.<br/><br/>
+      <img src="https://skillicons.dev/icons?i=aws,python,flask&perline=3&theme=dark" height="36" /><br/><br/>
+      <a href="https://github.com/akash-skyhighdev/repo-2"><img src="https://img.shields.io/badge/View%20repo-0E75B6?style=for-the-badge&logo=github&logoColor=white" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🛒 Your project name</h4>
+      One line about what it does and the problem it solves.<br/><br/>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&perline=3&theme=dark" height="36" /><br/><br/>
+      <a href="https://github.com/akash-skyhighdev/repo-3"><img src="https://img.shields.io/badge/View%20repo-0E75B6?style=for-the-badge&logo=github&logoColor=white" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🌐 Your project name</h4>
+      One line about what it does and the problem it solves.<br/><br/>
+      <img src="https://skillicons.dev/icons?i=html,css,js&perline=3&theme=dark" height="36" /><br/><br/>
+      <a href="https://github.com/akash-skyhighdev/repo-4"><img src="https://img.shields.io/badge/View%20repo-0E75B6?style=for-the-badge&logo=github&logoColor=white" /></a>
+    </td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+
+### 📫 Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-id)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0E75B6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://your-portfolio.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0F1F,100:0E75B6&height=120&section=footer" width="100%" alt="Footer" />
+
+</div>
