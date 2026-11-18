@@ -146,14 +146,12 @@ class Akash:
 
 ```mermaid
 xychart-beta
-    title "Commits per month"
     x-axis [Jun, Jul, Aug, Sep, Oct, Nov]
-    y-axis "Commits" 0 --> 50
+    y-axis "Commits" 0 --> 10
     bar [0, 0, 0, 0, 0, 2]
-    line [0, 0, 0, 0, 0, 2]
 ```
 
-<sub>Edit the bar and line values with your monthly commit counts.</sub>
+<sub>Edit the bar values with your monthly commit counts. Raise the y-axis maximum if a month goes higher than 10.</sub>
 
 ---
 
@@ -161,7 +159,6 @@ xychart-beta
 
 ```mermaid
 pie showData
-    title "Languages by share"
     "Python" : 40
     "JavaScript" : 25
     "HTML" : 20
@@ -177,7 +174,7 @@ pie showData
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=akash-skyhighdev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash-skyhighdev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash-skyhighdev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
 
 <br/>
 
