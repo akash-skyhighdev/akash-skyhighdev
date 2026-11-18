@@ -217,10 +217,11 @@ pie showData
 
 ## 🎓 Learning
 
-- ✅ AWS Cloud Practitioner *(replace with your status)*
-- 🔄 AWS Solutions Architect Associate *(in progress)*
-- 📘 Generative AI with Amazon Bedrock *(in progress)*
-
+- ✅ **AWS Cloud Practitioner** — *Foundational Cloud Concepts & Security*
+- 🔄 **AWS Solutions Architect – Associate** — *Up Next*
+- 📘 **AWS Advanced Networking – Specialty** — *Up Next*
+- 🐧 **Linux System Administration** — *In Progress*
+- 
 ---
 
 ## 📫 Let's connect
