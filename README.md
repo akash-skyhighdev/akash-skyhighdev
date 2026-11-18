@@ -126,7 +126,7 @@ class Akash:
 ## 📊 GitHub stats
 
 <div align="center">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=akash-skyhighdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=akash-skyhighdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="80em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash-skyhighdev&layout=compact&langs_count=8&theme=tokyonight" />
   <br /><br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=akash-skyhighdev&theme=tokyonight" />
@@ -147,11 +147,11 @@ class Akash:
 ```mermaid
 xychart-beta
     x-axis [Jun, Jul, Aug, Sep, Oct, Nov]
-    y-axis "Commits" 0 --> 10
+    y-axis "Commits" 0 --> 5
     bar [0, 0, 0, 0, 0, 2]
 ```
 
-<sub>Edit the bar values with your monthly commit counts. Raise the y-axis maximum if a month goes higher than 10.</sub>
+<sub>Edit the bar values with your monthly commit counts. Raise the y-axis maximum if a month goes higher than 5.</sub>
 
 ---
 
