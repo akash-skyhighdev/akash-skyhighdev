@@ -143,14 +143,15 @@ class Akash:
 
 ## 📈 Commit graph (last 6 months)
 
-```mermaid
-xychart-beta
-    x-axis [Jun, Jul, Aug, Sep, Oct, Nov]
-    y-axis "Commits" 0 --> 5
-    bar [0, 0, 0, 0, 0, 2]
-```
-<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=akash-skyhighdev&layout=compact&langs_count=8&theme=tokyonight](https://github-readme-stats.vercel.app/api/top-langs/?username=akash-skyhighdev&layout=compact&langs_count=8&theme=tokyonight)" />
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akash-skyhighdev&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+</div
 
+## 📈 Contribution graph
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akash-skyhighdev&theme=tokyonight" alt="Profile Details" />
+</div>
 
 <sub>Edit the bar values with your monthly commit counts. Raise the y-axis maximum if a month goes higher than 5.</sub>
 
@@ -158,13 +159,8 @@ xychart-beta
 
 ## 💻 Top languages
 
-```mermaid
-pie showData
-    "Python" : 40
-    "JavaScript" : 25
-    "HTML" : 20
-    "CSS" : 15
-```
+<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=akash-skyhighdev&layout=compact&langs_count=8&theme=tokyonight](https://github-readme-stats.vercel.app/api/top-langs/?username=akash-skyhighdev&layout=compact&langs_count=8&theme=tokyonight)" />
+
 
 <sub>Edit the numbers so they add up to your language shares.</sub>
 
