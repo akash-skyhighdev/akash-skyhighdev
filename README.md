@@ -150,6 +150,8 @@ xychart-beta
     y-axis "Commits" 0 --> 5
     bar [0, 0, 0, 0, 0, 2]
 ```
+`<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=akash-skyhighdev&layout=compact&langs_count=8&theme=tokyonight](https://github-readme-stats.vercel.app/api/top-langs/?username=akash-skyhighdev&layout=compact&langs_count=8&theme=tokyonight)" />`
+
 
 <sub>Edit the bar values with your monthly commit counts. Raise the y-axis maximum if a month goes higher than 5.</sub>
 
