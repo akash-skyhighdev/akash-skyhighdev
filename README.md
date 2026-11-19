@@ -149,13 +149,14 @@ class Akash:
 ---
 
 ## 🐍 Contribution animation
-
 '''<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akash-skyhighdev/akash-skyhighdev/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akash-skyhighdev/akash-skyhighdev/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/akash-skyhighdev/akash-skyhighdev/output/github-snake.svg" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,30:064e3b,65:39ff14,100:bc13fe&height=85&section=footer" width="100%"  />   
 </picture>'''
-
+  
+      
 ## 💻 Top languages
 
 <div align="center">
