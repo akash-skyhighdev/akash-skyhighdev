@@ -126,8 +126,7 @@ class Akash:
 ## 📊 GitHub stats
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=akash-skyhighdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="80em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash-skyhighdev&layout=compact&langs_count=8&theme=tokyonight" />
+  
   <br /><br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=akash-skyhighdev&theme=tokyonight" />
 </div>
@@ -150,7 +149,7 @@ xychart-beta
     y-axis "Commits" 0 --> 5
     bar [0, 0, 0, 0, 0, 2]
 ```
-`<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=akash-skyhighdev&layout=compact&langs_count=8&theme=tokyonight](https://github-readme-stats.vercel.app/api/top-langs/?username=akash-skyhighdev&layout=compact&langs_count=8&theme=tokyonight)" />`
+<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=akash-skyhighdev&layout=compact&langs_count=8&theme=tokyonight](https://github-readme-stats.vercel.app/api/top-langs/?username=akash-skyhighdev&layout=compact&langs_count=8&theme=tokyonight)" />
 
 
 <sub>Edit the bar values with your monthly commit counts. Raise the y-axis maximum if a month goes higher than 5.</sub>
