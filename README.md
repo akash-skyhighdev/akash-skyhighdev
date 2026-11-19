@@ -123,12 +123,11 @@ class Akash:
   <tr>
     <td>
 
-## 📊 GitHub stats
+## 📊 GitHub Stats
 
 <div align="center">
-  
-  <br /><br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akash-skyhighdev&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akash-skyhighdev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akash-skyhighdev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 </td>
@@ -136,8 +135,6 @@ class Akash:
 </table>
 
 </div>
-
-<sub>Numbers are a snapshot. Update them from your profile's Overview tab when you want them refreshed.</sub>
 
 ---
 
@@ -153,10 +150,9 @@ class Akash:
 
 ## 💻 Top languages
 
-<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=akash-skyhighdev&layout=compact&langs_count=8&theme=tokyonight](https://github-readme-stats.vercel.app/api/top-langs/?username=akash-skyhighdev&layout=compact&langs_count=8&theme=tokyonight)" />
-
-
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash-skyhighdev&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" />
+</div>
 
 ---
 
@@ -201,7 +197,7 @@ class Akash:
 |---|---|---|
 | [**Serverless customer form**](https://github.com/akash-skyhighdev/repo-1) | Lambda and S3 app that saves customer records as JSON, with a live list view. | AWS Lambda, S3, JavaScript |
 | [**Bedrock document Q&A**](https://github.com/akash-skyhighdev/repo-2) | RAG chatbot on Amazon Bedrock with per-user document isolation. | Flask, Bedrock, S3, Cognito |
-| [**Project three**](https://github.com/akash-skyhighdev/repo-3) | Replace with a one-line description. | Node.js, MongoDB |
+| [**Student Management System**](https://github.com/akash-skyhighdev/repo-3) | A web application to manage student records | Python (Flask), HTML, CSS. mysql |
 | [**Project four**](https://github.com/akash-skyhighdev/repo-4) | Replace with a one-line description. | HTML, CSS, JavaScript |
 
 ---
